@@ -6,3 +6,5 @@ classified
 passwords
 secret
 costamcostam
+teststring
+line separated
